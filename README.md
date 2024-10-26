@@ -1,4 +1,4 @@
-# 🚶 PedestrianDetect: Pedestrian Detection Using Histograms of Oriented Gradients (HOG)
+# 🚶 PedestrianDetect: Pedestrian Detection 
 
 Welcome to **PedestrianDetect**! In this project, we’ll implement a machine learning-based pedestrian detection system using the Histogram of Oriented Gradients (HOG) method. This technique is fundamental in intelligent video surveillance systems, enabling us to detect pedestrians in video frames accurately. Let’s dive into the world of pedestrian detection! 🚶‍♂️🚶‍♀️
 
